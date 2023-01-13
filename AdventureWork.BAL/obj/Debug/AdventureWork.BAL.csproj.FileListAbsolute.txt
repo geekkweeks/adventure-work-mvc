@@ -1,0 +1,12 @@
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\AdventureWork.BAL.dll.config
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\AdventureWork.BAL.dll
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\AdventureWork.BAL.pdb
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\EntityFramework.dll
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\EntityFramework.xml
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\obj\Debug\AdventureWork.BAL.csproj.AssemblyReference.cache
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\obj\Debug\AdventureWork.BAL.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\obj\Debug\AdventureWork.BAL.csproj.CopyComplete
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\obj\Debug\AdventureWork.BAL.dll
+D:\PROJECTS\Learning\CSharp\AdventureWork\AdventureWork\AdventureWork.BAL\obj\Debug\AdventureWork.BAL.pdb
